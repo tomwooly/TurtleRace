@@ -16,9 +16,6 @@ Project Structure
 
 Technologies Used
 
-Contributing
-
-License
 
 
 Project Overview
@@ -69,7 +66,7 @@ TurtleRace/
 
 ├── README.md          # Project README file
 
-└── LICENSE            # License for the project
+
 
 Technologies Used
 
